@@ -90,7 +90,6 @@ Our Model :
 Model: "sequential_43"
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
-=================================================================
 conv2d_90 (Conv2D)           (None, 85, 85, 64)        1792      
 _________________________________________________________________
 max_pooling2d_80 (MaxPooling (None, 42, 42, 64)        0         
@@ -301,3 +300,4 @@ https://www.kaggle.com/sidharthavs/covid-19-detection-from-lung-x-rays
 https://www.kaggle.com/oceancode/corona-image-recognition-analysis
 https://www.kaggle.com/rahulvv/image-classification-using-efficientnetb7
 
+=======

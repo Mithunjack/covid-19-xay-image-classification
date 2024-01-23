@@ -6,6 +6,8 @@ This project aims to experiment with the automated detection of COVID-19 using X
 ## Problem Statement
 Since the outbreak of COVID-19 in December 2019 in Wuhan, China, the disease has spread globally. Deep learning, particularly CNN, has shown great promise in classifying medical images. This project explores the potential of CNN in identifying COVID-19 infections in chest X-ray images.
 
+## Presentation Slide [here](https://github.com/Mithunjack/covid-19-xay-image-classification/blob/master/Presentaion_Slides.pdf)
+
 ## Goals
 - To apply CNN in classifying chest X-ray images for COVID-19 detection.
 - To evaluate the performance of our CNN model against pre-trained models like VGG16, ResNet, and DenseNet.
